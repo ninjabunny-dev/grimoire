@@ -1,0 +1,18 @@
+{
+  "name": "grimoire",
+  "version": "0.0.1",
+  "description": "Static Site Generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@192.168.68.51:ninjabunny_dev/grimoire.git"
+  },
+  "keywords": [
+    "static-site-generator"
+  ],
+  "author": "NinjaBunny",
+  "license": "MIT"
+}

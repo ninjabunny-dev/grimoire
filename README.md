@@ -1,2 +1,3 @@
-# grimoire
+## todo
 
+gen docs with jamdocs
