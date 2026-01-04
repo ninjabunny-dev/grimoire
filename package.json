@@ -6,9 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-    "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "git@192.168.68.51:ninjabunny_dev/grimoire.git"
@@ -17,5 +14,8 @@
     "static-site-generator"
   ],
   "author": "NinjaBunny",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@opentui/core": "^0.1.68"
+  }
 }
